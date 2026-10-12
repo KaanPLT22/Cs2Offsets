@@ -1,0 +1,58 @@
+# ═══ Otomatik oluşturuldu - GitHub Kolay Yükleyici ═══
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+
+# ── Node.js ──
+node_modules/
+
+# ── Visual Studio / C# / .NET ──
+bin/
+obj/
+.vs/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
+*.cache
+*.ilk
+*.exp
+*.lib
+packages/
+*.nupkg
+TestResults/
+
+# ── C / C++ ──
+*.o
+*.a
+*.so
+*.out
+*.gch
+*.pch
+x64/
+x86/
+
+# ── Java ──
+*.class
+*.jar
+target/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# ── IDE ──
+.idea/
+.vscode/
